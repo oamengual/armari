@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#141413"/>
+  <path d="M256 144C256 126.327 270.327 112 288 112C305.673 112 320 126.327 320 144C320 158.91 309.798 171.443 295.986 174.996L256 196L416 292C427.046 298.627 432.514 311.838 429.174 324.294C425.834 336.75 414.544 345.412 401.65 345.412H110.35C97.4562 345.412 86.1656 336.75 82.8259 324.294C79.4863 311.838 84.9543 298.627 96 292L256 196V176" stroke="#FAF8F5" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="425" text-anchor="middle" fill="#FAF8F5" font-family="Georgia, serif" font-size="68" letter-spacing="14">ARMARI</text>
+</svg>

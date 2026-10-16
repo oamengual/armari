@@ -1,0 +1,18 @@
+{
+  "name": "ARMARI — Armario Inteligente & Estilista IA",
+  "short_name": "ARMARI",
+  "description": "Digitaliza tu ropa, elimina el fondo automáticamente y planifica tus outfits semanales con Inteligencia Artificial y clima en tiempo real.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#141413",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
